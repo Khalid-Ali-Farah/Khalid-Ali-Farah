@@ -1,6 +1,6 @@
 ### Hi there 👋, Khalid Ali
 #### Web Development
-![Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Development]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/github-header-image.png))
 
 I'm a passionate software developer with a knack for crafting interactive and user-friendly web experiences. My coding journey is all about turning ideas into reality through the magic of HTML, JavaScript, and CSS. 🚀
 
