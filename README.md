@@ -2,7 +2,7 @@
 #### Web Development
 ![Web Development]
 
-(https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/github-header-image.png)
+[(https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/github-header-image.png)]
 
 
 
