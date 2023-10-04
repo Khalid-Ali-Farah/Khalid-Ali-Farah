@@ -1,5 +1,5 @@
 
-![Web Development](https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/2.png)
+![Web Development](https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner%20(1).png)
 
 #### Web Development
 
