@@ -3,16 +3,17 @@
 
 #### Web Development
 
-👋 Hello, I'm Khalid Ali, a passionate software developer with a strong focus on web development. My journey began with HTML and CSS, and I've since expanded my skills to include Java. During my time at university, I've had the privilege of working on diverse projects, exploring various programming languages and technologies.
+## Hello, I'm Khalid Ali 👋
 
-🚀 Currently, I'm immersing myself in JavaScript, aiming to master it for web development. My goal is to become a successful web developer, and I'm excited to graduate in 2024, ready to bring my skills to the professional world.
+I'm a recent graduate and a software developer with a strong focus on front-end and mobile development. Here's a bit about me:
 
-🌐 I'm always eager to learn and collaborate, so feel free to connect with me and join me on my web development journey!
+- 🎓 Recently graduated with a degree in Bachelor Of Computer Science (Software Development) With Honours.
+- 🌐 Skilled in web development, with expertise in JavaScript, HTML, and CSS.
+- 📱 Passionate about mobile app development, primarily using Flutter.
+- 📦 I've created repositories for my university projects. Check them out to see my work!
 
+I'm excited to kickstart my career in software development and eager to connect with fellow developers. Let's learn and collaborate together as I embark on this new journey! 🚀
 
-Skills: HTML / CSS/ JS 
-
-- 🔭 I’m currently working on this page. 
 
 
 
