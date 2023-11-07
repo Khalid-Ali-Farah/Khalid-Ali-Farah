@@ -1,5 +1,5 @@
 
-![Web Development](https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/2.png)
+![Web Development](https://github.com/Khalid-Ali-Farah/Khalid-Ali-Farah/blob/main/Banner.png)
 
 #### Web Development
 
