@@ -10,7 +10,6 @@ I'm a recent graduate with a practical background in web development and some kn
 - 🎓 Recently graduated with a degree in Bachelor Of Computer Science (Software Development) With Honours.
 - 🌐 Practical background in web development, with skills in JavaScript, HTML, and CSS.
 - 📱 Familiar with mobile app development, primarily using Flutter.
-- 📦 I've created repositories for my university web development projects. Check them out to see my work!
 
 
 
