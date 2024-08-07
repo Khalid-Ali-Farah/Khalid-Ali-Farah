@@ -5,7 +5,7 @@
 
 # About Me
 
-👋 Welcome to my GitHub repository!
+👋 Welcome to my GitHub repository !
 
 ## Khalid Ali Farah
 
